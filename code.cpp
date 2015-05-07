@@ -1,3 +1,5 @@
+// Programa juego de preguntas y respuestas. Permite al usuario elegir temática, salir del juego y llevar un contador de sus respuestas correctas e incorrectas - Agustín Espíndola K1091 - 07/05/15 
+
 #include <iostream>
 
 using namespace std;
